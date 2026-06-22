@@ -1,18 +1,29 @@
 
-Hi, I'm Anukalp Agarwal👋
+Hi, I'm Anukalp Agarwal 👋
 
-Frontend Developer focused on building clean, responsive, and scalable web applications.
+🚀 MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
-I enjoy turning ideas into structured React projects with reusable components and good architecture.
+I enjoy transforming ideas into real-world products through clean code, efficient backend architecture, and intuitive user experiences. Currently focused on full-stack development while exploring AI-powered applications and modern web technologies.
 
+🛠 Tech Stack
 
-## 🛠 Tech Stack
-- React.js
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Tailwind CSS
-- Git & GitHubs:
-- Vercel:
+Frontend:-
+React.js
+JavaScript (ES6+)
+HTML5
+CSS3
+
+Backend:-
+Node.js
+Express.js
+MongoDB
+REST APIs
+JWT Authentication
+
+Tools & Platforms
+Git & GitHub
+Vercel
+Exploring AI Coding Agents (Claude Code, OpenCode, and AI-assisted development workflows)
 
 📫 Connect With Me
 
