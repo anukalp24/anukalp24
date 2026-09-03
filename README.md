@@ -1,9 +1,8 @@
-
 Hi, I'm Anukalp Agarwal 👋
 
 🚀 MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
-I enjoy transforming ideas into real-world products through clean code, efficient backend architecture, and intuitive user experiences. Currently focused on full-stack development while exploring AI-powered applications and modern web technologies.
+I enjoy transforming ideas into real-world products through clean code, efficient backend architecture, and intuitive user experiences. Currently focused on MERN Stack development while exploring Generative AI and AI-powered applications.
 
 🛠 Tech Stack
 
@@ -20,10 +19,16 @@ MongoDB
 REST APIs
 JWT Authentication
 
-Tools & Platforms
+Generative AI:-
+RAG (Retrieval-Augmented Generation)
+Currently learning Generative AI and LLM applications
+
+Tools & Platforms:-
 Git & GitHub
 Vercel
-Exploring AI Coding Agents (Claude Code, OpenCode, and AI-assisted development workflows)
+Render
+OpenCode
+AI-assisted development workflows
 
 📫 Connect With Me
 
