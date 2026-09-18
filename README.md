@@ -6,36 +6,40 @@ I work with React.js, Node.js, Express.js, MongoDB, JavaScript, and REST APIs. I
 
 Currently, I’m deepening my knowledge of Generative AI and Agentic AI by continuously learning and building practical applications.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Frontend:-
-React.js
-JavaScript (ES6+)
-HTML5
-CSS3
+**Frontend:-**
 
-Backend:-
-Node.js
-Express.js
-MongoDB
-REST APIs
-JWT Authentication
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
-Generative AI:-
-RAG (Retrieval-Augmented Generation)
-LangChain
-Vector Databases
-Cross-Encoder Reranking
+**Backend:-**
 
-Tools & Platforms:-
-Git & GitHub
-Vercel
-Render
-OpenCode
-AI-assisted development workflows
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* JWT Authentication
 
-📫 Connect With Me
+**Generative AI:-**
 
-Linkedin: https://www.linkedin.com/in/anukalp-agarwal-2668b3376/
+* RAG (Retrieval-Augmented Generation)
+* LangChain
+* Vector Databases
+* Cross-Encoder Reranking
 
-Email id: anukalpagarwal24@gmail.com
+**Tools & Platforms:-**
+
+* Git & GitHub
+* Vercel
+* Render
+* OpenCode
+* AI-assisted development workflows
+
+## 📫 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/anukalp-agarwal-2668b3376/
+
+**Email:** [anukalpagarwal24@gmail.com](mailto:anukalpagarwal24@gmail.com)
