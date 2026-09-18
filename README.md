@@ -1,8 +1,10 @@
 Hi, I'm Anukalp Agarwal 👋
 
-🚀 MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+🚀 MERN Stack Developer focused on building modern, scalable applications while continuously deepening my skills in Generative AI.
 
-I enjoy transforming ideas into real-world products through clean code, efficient backend architecture, and intuitive user experiences. Currently focused on MERN Stack development while exploring Generative AI and AI-powered applications.
+I work with React.js, Node.js, Express.js, MongoDB, JavaScript, and REST APIs. I also have hands-on experience with RAG pipelines, LangChain, vector databases, semantic retrieval, and cross-encoder reranking.
+
+Currently, I’m deepening my knowledge of Generative AI and Agentic AI by continuously learning and building practical applications.
 
 🛠 Tech Stack
 
@@ -21,7 +23,9 @@ JWT Authentication
 
 Generative AI:-
 RAG (Retrieval-Augmented Generation)
-Currently learning Generative AI and LLM applications
+LangChain
+Vector Databases
+Cross-Encoder Reranking
 
 Tools & Platforms:-
 Git & GitHub
