@@ -1,10 +1,10 @@
 Hi, I'm Anukalp Agarwal 👋
 
-🚀 MERN Stack Developer focused on building modern, scalable applications while continuously deepening my skills in Agentic AI.
+I’m a Full-Stack Developer (MERN) , with hands-on experience building Full stack application , RAG pipelines and AI Agents.
 
-I work with React.js, Node.js, Express.js, MongoDB, JavaScript, and REST APIs. I also have hands-on experience with RAG pipelines, LangChain, vector databases, semantic retrieval, and cross-encoder reranking.
+I work with React.js, Node.js, Express.js, MongoDB, JavaScript, REST APIs, Python, and FastAPI, with experience building full-stack applications, backend systems, and practical solutions.
 
-Currently, I’m deepening my knowledge of Generative AI and Agentic AI by continuously learning and building practical applications.
+I’ve built end-to-end RAG applications using LangChain, ChromaDB, Hugging Face embeddings, cross-encoder reranking, and LLMs. I also have hands-on knowledge of LangGraph, Agentic AI, MCP servers, tool calling, and multi-agent systems, and I’m continuously deepening my skills in AI agent development and AI system design through practical projects.
 
 ## 🛠 Tech Stack
 
@@ -19,14 +19,17 @@ Currently, I’m deepening my knowledge of Generative AI and Agentic AI by conti
 
 * Node.js
 * Express.js
+* Fastapi
 * MongoDB
 * REST APIs
 * JWT Authentication
 
-**Generative AI:-**
+**Gen/Agentic AI:-**
 
 * RAG (Retrieval-Augmented Generation)
+* AI Agents
 * LangChain
+* LangGraph
 * Vector Databases
 * Cross-Encoder Reranking
 
@@ -36,6 +39,7 @@ Currently, I’m deepening my knowledge of Generative AI and Agentic AI by conti
 * Vercel
 * Render
 * OpenCode
+* Claude
 * AI-assisted development workflows
 
 ## 📫 Connect With Me
